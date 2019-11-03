@@ -82,8 +82,12 @@ def adding_matz
         }
      }
 
+<<<<<<< HEAD
 programmer_hash[:yukihiro_matsumoto] = {}
 programmer_hash
+=======
+programmer_hash[]
+>>>>>>> 27aad5bcb019fb77cfc2598f014a826c1f215ace
 end
 
 def changing_alan
